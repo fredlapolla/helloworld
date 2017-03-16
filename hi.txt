@@ -1,1 +1,1 @@
-Oy vey smear, it’s time for git. 
+Oy vey it’s the git project
