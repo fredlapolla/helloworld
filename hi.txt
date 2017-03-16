@@ -1,1 +1,1 @@
-Oy vey it’s the git project
+These are the changes to the git project. Hooray! 
